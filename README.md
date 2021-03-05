@@ -54,8 +54,8 @@ By having quick access to popular interview questions, along with different solu
    * Navigate to the localhost port: http://localhost:3000 in the browser.
 
 ## Links
-   * Deployed Link: 
-   * Repo Link:     https://github.com/MSU-developmentTeam/react-git-interview
+   * Deployed Link: https://shrouded-chamber-61661.herokuapp.com/
+   * Repo Link:     https://github.com/muneebbwp/react-git-interview.git
 
 ## Image
 ![Git.Interview](/client/public/screenshots/header-sc.png)
